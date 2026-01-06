@@ -11,7 +11,9 @@ This repository contains examples of accessibility testing work based on real-wo
 - Browser: Google Chrome
 - Scope: Registration & login flow, form labels, error feedback, focus management, accessibility settings
 
-The full accessibility review is available in the PDF file included in this repository.
+The full accessibility review is available as a downloadable PDF:
+
+[Download the accessibility test report (PDF)](./project-1-online-learning-app.pdf)
 
 ## Contact
 - Email: huzaifakks444@gmail.com  
