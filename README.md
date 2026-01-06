@@ -13,7 +13,7 @@ This repository contains examples of accessibility testing work based on real-wo
 
 The full accessibility review is available as a downloadable PDF:
 
-[Download the accessibility test report (PDF)](./project-1-online-learning-app.pdf)
+[Download the accessibility test report (PDF)](https://raw.githubusercontent.com/MuhammadHuzaifa11/accessibility-testing-portfolio/main/project-1-online-learning-app.pdf)
 
 ## Contact
 - Email: huzaifakks444@gmail.com  
